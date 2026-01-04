@@ -1,4 +1,6 @@
 # Holiday Omnichannel Retail Analytics (FP20 Challenge 33)
+![Holiday Omichannel Banner]![Holiday Omichannel](https://github.com/user-attachments/assets/712d1266-9b7b-4005-a902-45ce51a641df)
+
 
 ## Overview
 This project analyzes a holiday retail dataset to evaluate sales, profit, returns,
@@ -22,6 +24,11 @@ logistics efficiency, and customer omnichannel behavior using Power BI.
 - DAX
 - Data Modeling
 - Interactive Dashboards
+
+**[Dashboard Screenshot]**
+<img width="1061" height="615" alt="Homnichain1" src="https://github.com/user-attachments/assets/726c6811-731b-4b52-b0ba-c336887de4ec" />
+<img width="1062" height="614" alt="Homenichain2" src="https://github.com/user-attachments/assets/42113fa5-1488-460c-95a5-eb40472ab0ed" />
+
 
 ## Challenge
 FP20 Analytics Challenge 33  
